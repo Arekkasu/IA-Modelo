@@ -1,0 +1,6 @@
+tensorflow>=2.16.1
+flask>=3.0.2
+pillow>=10.3.0
+numpy>=1.26.4
+werkzeug>=3.0.1
+flask-cors
